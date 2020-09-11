@@ -5,4 +5,5 @@
   - [副作用相关的 hooks](./react/useEffect)
   - [ref 相关的 hooks](./react/useRef)
   - [优化相关的 hooks](./react/React.memo-useCallback-useMemo)
+  - [虚拟 DOM 以及 diff 算法](./react/virtual-dom-diff)
 - **资源**
