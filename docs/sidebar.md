@@ -6,4 +6,18 @@
   - [ref 相关的 hooks](./react/useRef)
   - [优化相关的 hooks](./react/React.memo-useCallback-useMemo)
   - [虚拟 DOM 以及 diff 算法](./react/virtual-dom-diff)
+- 手写代码
+  - [深拷贝](./codes/deepClone)
+  - [函数节流](./codes/函数节流)
+  - [函数防抖](./codes/函数防抖)
+  - [对象数组去重](./codes/对象数组去重)
+  - [数组扁平化](./codes/数组扁平化)
+  - [柯里化](./codes/柯里化)
+  - [模拟 apply](./codes/模拟apply)
+  - [模拟 bind](./codes/模拟bind)
+  - [模拟 call](./codes/模拟call)
+  - [模拟 instanceof](./codes/模拟instanceof)
+  - [模拟 new](./codes/模拟new)
+  - [深度优先与广度优先](./codes/深度优先与广度优先)
+  - [观察者模式和发布-订阅模式](./codes/观察者模式和发布-订阅模式)
 - **资源**
