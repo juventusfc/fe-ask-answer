@@ -20,4 +20,7 @@
   - [模拟 new](./codes/模拟new)
   - [深度优先与广度优先](./codes/深度优先与广度优先)
   - [观察者模式和发布-订阅模式](./codes/观察者模式和发布-订阅模式)
+- HTTP
+  - [认识 XMLHttpRequest](./http/XMLHttpRequest)
+  - [认识 Fetch](./http/fetch)
 - **资源**
