@@ -23,4 +23,7 @@
 - HTTP
   - [认识 XMLHttpRequest](./http/XMLHttpRequest)
   - [认识 Fetch](./http/fetch)
+- 安全
+  - [认识 CORS](./security/cors)
 - **资源**
+- [面试准备](./面经)
